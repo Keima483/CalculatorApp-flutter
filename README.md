@@ -13,6 +13,7 @@ more yet to come
 ## ScreenShots: 
 ### Android:
 <img src ="images/andLight.png" width = 360>  <img src ="images/andDark.png" width = 360>
+### Web
 <img src ="images/winLight.jpg" width = 720>  <img src ="images/winDark.jpg" width = 720>
 
 ## Packages Used :
