@@ -1,16 +1,19 @@
-# calculator_app
+# Calculator app
 
-A new Flutter application.
+A normal calculator app with changable theme ( light / dark ) built on flutter
 
-## Getting Started
+## Features:
 
-This project is a starting point for a Flutter application.
+1. A simple interface which is pleasing to look at
+2. A button on the appbar to change the theme from light to dark and vice versa
+3. **Error handling** : This feature will correct your expression if you enter a wrong one as soon as you click on the = button
+4. Support for decimal numbers
+more yet to come
 
-A few resources to get you started if this is your first Flutter project:
+## ScreenShots: 
+### Android:
+<img src ="images/andLight.png" width = 360>  <img src ="images/andDark.png" width = 360>
+<img src ="images/winLight.jpg" width = 720>  <img src ="images/winDark.jpg" width = 720>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Packages Used :
+**eval_ex** : [eval_ex: ^1.0.10](https://pub.dev/packages/eval_ex)
